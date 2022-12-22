@@ -1,4 +1,4 @@
-# TextCounter
+# [TextCounter](https://github.com/arutaka1220/TextCounter/releases/download/v1.0.0/TextCounter.js)
 同じ文字の個数を数え、コンソールに出力します！  
 
 ## つかいかた
